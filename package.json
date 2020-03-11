@@ -1,0 +1,19 @@
+{
+  "name": "back-at-it",
+  "version": "1.0.0",
+  "description": "I've forgotten everything",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misspants87/back-at-it.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/misspants87/back-at-it/issues"
+  },
+  "homepage": "https://github.com/misspants87/back-at-it#readme"
+}
